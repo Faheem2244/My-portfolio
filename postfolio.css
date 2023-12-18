@@ -1,0 +1,41 @@
+.logo{
+    width: 70px;
+    height: 70px;
+    padding-bottom: 4%
+}
+.banner {
+    height: 500px;
+    background-image: url(SL-020620-27800-28.jpg);
+}
+.bh1 {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bh5 {
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button1{
+    background-color: white;
+    border: 0;
+    border-radius: 10px;
+    margin-left: 710px;
+    margin-top: 50px;
+
+}
+.round {
+    
+    width: 750px;
+    background-color: black;
+    border-radius: 50px;
+}
+.bb {
+    padding-left: 200px;
+}
+.logo {
+    height: 55px;
+    width: 55px;
+}
